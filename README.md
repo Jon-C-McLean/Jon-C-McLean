@@ -6,7 +6,3 @@ I am a Software Engineering student at the <a href="https://uts.edu.au">Universi
     <li><a href="polld.app">Polld</a></li>
     <li><a href="https://github.com/Jon-C-McLean/Brabender-Extrusion-Graph-Builder">Brabender Graph Builder</a></li>
 </ul>
-
-<h2>Socials</h2>
-<a href="http://jonmclean.xyz"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-
