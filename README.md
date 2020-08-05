@@ -7,6 +7,7 @@ I am a Software Engineering student at the <a href="https://uts.edu.au">Universi
     <li><a href="https://github.com/Jon-C-McLean/Brabender-Extrusion-Graph-Builder">Brabender Graph Builder</a></li>
 </ul>
 
-[![Jon McLean's github stats](https://github-readme-stats.vercel.app/api?username=jon-c-mclean&count_private=true)](https://github.com/jon-c-mclean)
+<br/>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jon-c-mclean)
+[![Jon McLean's Github stats](https://github-readme-stats.vercel.app/api?username=jon-c-mclean&count_private=true)](https://github.com/jon-c-mclean)
