@@ -1,1 +1,1 @@
-<h2>Hey, I'm Jon :wave:</h2>
+<h3>Hey, I'm Jon :wave:</h3>
