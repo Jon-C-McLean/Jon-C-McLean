@@ -3,7 +3,7 @@ I am a Software Engineering student at the <a href="https://uts.edu.au">Universi
 
 <h2>Current Projects :pencil:</h2>
 <ul>
-    <li><a href="polld.app">Polld</a></li>
+    <li><a href="http://polld.app">Polld</a></li>
     <li><a href="https://github.com/Jon-C-McLean/Brabender-Extrusion-Graph-Builder">Brabender Graph Builder</a></li>
 </ul>
 
