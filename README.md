@@ -10,4 +10,4 @@ I am a Software Engineering student at the <a href="https://uts.edu.au">Universi
 <br/>
 <br/>
 
-[![Jon McLean's Github stats](https://github-readme-stats.vercel.app/api?username=jon-c-mclean&count_private=true)](https://github.com/jon-c-mclean)
+[![Jon McLean's Github stats](https://github-readme-stats.vercel.app/api?username=jon-c-mclean&count_private=true&hide_rank=true)](https://github.com/jon-c-mclean)
