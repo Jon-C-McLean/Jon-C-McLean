@@ -6,6 +6,6 @@ Recently I have been working a live American Sign Language (Fingerspelling) Tran
 Some projects that I am proud of are:
 * MultiLayer Perceptron (built without Tensorflow, PyTorch, or other libraries)
 * Honours Thesis: YOLOCapNet-GGCNN for Object Detection and Generative Grasping designed for use with a custom robotic arm. 
-* American Sign Language (Fingerspelling) Translator (custom model)
+* [American Sign Language (Fingerspelling) Translator (custom model)](https://github.com/Jon-C-McLean/asl_fingerspelling)
 * UTS Rover Team
 * <a href="https://github.com/UTS-InterpolatURs">UTS InterpolatURs</a>
