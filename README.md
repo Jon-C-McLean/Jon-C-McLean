@@ -9,3 +9,4 @@ Some projects that I am proud of are:
 * [American Sign Language (Fingerspelling) Translator (custom model)](https://github.com/Jon-C-McLean/asl_fingerspelling)
 * [UTS Rover Team](https://utsrovers.space)
 * <a href="https://github.com/UTS-InterpolatURs">UTS InterpolatURs</a>
+* [Optimus 2 Spacecraft](https://www.linkedin.com/posts/space-machines-company_activity-7170946514221981696-uPWI?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy): I was responsible for developing low level internal communication protocols as well as a custom ultra low power star tracker and engineering camera payload. 
